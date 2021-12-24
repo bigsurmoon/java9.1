@@ -7,4 +7,5 @@ public class Donut {
     private String editMode;
     private Placeholder placeholder;
 
+    //    + getters/setters
 }

@@ -19,7 +19,7 @@ public class Post {
     private boolean addFavourite;
     private String text;
     private String postType;
-    private postSource postSource;
+    private PostSource postSource;
     private Content content;
     private LikesInfo like;
     private CommentsInfo commentsInfo;
