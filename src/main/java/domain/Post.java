@@ -10,13 +10,24 @@ public class Post {
     private int date;
     private int canDelete;
     private int canEdit;
+    private int canPin;
+    private int isPinned;
+    private int friendsOnly;
+    private int signerId;
+    private int markedAsAds;
+    private int postponedId;
     private boolean addFavourite;
     private String text;
+    private String postType;
+    private postSource postSource;
     private Content content;
     private LikesInfo like;
     private CommentsInfo commentsInfo;
     private Share share;
     private ViewsInfo viewsInfo;
+    private Copyright copyright;
+    private Geo geo;
+    private Donut donut;
 
     //    + getters/setters
 }
