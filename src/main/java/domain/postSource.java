@@ -1,6 +1,6 @@
 package domain;
 
-public class postSource {
+public class PostSource {
     private String type;
     private String platform;
     private String data;
